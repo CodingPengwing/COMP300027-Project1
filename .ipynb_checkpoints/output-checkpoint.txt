@@ -1,0 +1,30 @@
+---Naive Bayes Classifier---
+Accuracy: 71.55%
+
+QUESTION 1
+---Macro-Averaging---
+Precision: 1.0000, Recall: 0.7078, F-Score: 0.8289
+---Micro-Averaging---
+Precision: 1.0000, Recall: 0.7155, F-Score: 0.8342
+
+QUESTION 2
+---Naive Bayes w/ Removal of a class x feature that violates Gaussian assumption---
+Accuracy: 68.97%
+
+QUESTION 3
+---Naive Bayes Classifier---
+Accuracy: 71.55%
+
+---KDE---
+Kernel Bandwidth: 15
+Accuracy: 72.41%
+
+Kernel Bandwidth: 15
+Accuracy: 70.69%
+
+QUESTION 5
+---Naive Bayes Classifier (Ignoring NaNs)---
+Accuracy: 71.55%
+
+---Naive Bayes w/ NaNs---
+Accuracy: 68.1%
