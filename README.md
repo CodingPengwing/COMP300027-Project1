@@ -5,8 +5,8 @@ as KDE-Naive Bayes as the second model. This is a solution to project 1 of COMP3
 Learning. The specifications are provided in the repo.
 
 Team mambers:
-Tony Dang [CodingPengwing](https://github.com/CodingPengwing)
-Jennifer Xiang [@soopengi](https://github.com/soopengi)
+- Tony Dang [CodingPengwing](https://github.com/CodingPengwing)
+- Jennifer Xiang [@soopengi](https://github.com/soopengi)
 
 All of our code for this assignment is located on the COMP30027_2021_assignment1.ipynb file.
 All outputs referenced in our report (excluding plots) are found in the output.txt file. 
