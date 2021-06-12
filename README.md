@@ -1,6 +1,6 @@
 # Yoga Pose Classification #
 
-This is a classification task for yoga poses using Naive Bayes as the main model, as well
+This is a classification task for yoga poses using Gaussian Naive Bayes as the main model, as well
 as KDE-Naive Bayes as the second model. This is a solution to project 1 of COMP30007-Machine 
 Learning. The specifications are provided in the repo.
 
