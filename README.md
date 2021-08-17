@@ -4,7 +4,7 @@ This is a classification task for yoga poses using Gaussian Naive Bayes as the m
 as KDE-Naive Bayes as the second model. This is a solution to project 1 of COMP30007-Machine 
 Learning. The specifications are provided in the repo.
 
-Team mambers:
+Team members:
 - Tony Dang [CodingPengwing](https://github.com/CodingPengwing)
 - Jennifer Xiang [@soopengi](https://github.com/soopengi)
 
